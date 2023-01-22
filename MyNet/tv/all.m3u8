@@ -1,243 +1,165 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="121" tvg-name="Indeprndent" tvg-logo="https://i.ibb.co/q1kPr3M/independent.png" group-title="MyNet"
-,Indeprndent
+#EXTINF:-1 tvg-id="121" tvg-name="Indeprndent" tvg-logo="https://i.ibb.co/q1kPr3M/independent.png" group-title="MyNet",Indeprndent
 http://live.flixhub.net/hls/indepen.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Somoy TV" tvg-logo="https://i.ibb.co/FwdnkCG/somoytv.png" group-title="MyNet"
-,Somoy TV
+#EXTINF:-1 tvg-id="117" tvg-name="Somoy TV" tvg-logo="https://i.ibb.co/FwdnkCG/somoytv.png" group-title="MyNet",Somoy TV
 http://live.flixhub.net/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="ATN" tvg-logo="https://i.ibb.co/GsDQX52/ATN-BAngla.gif" group-title="MyNet"
-,ATN
+#EXTINF:-1 tvg-id="112" tvg-name="ATN" tvg-logo="https://i.ibb.co/GsDQX52/ATN-BAngla.gif" group-title="MyNet",ATN
 http://live.flixhub.net/hls/atn.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="ATN News" tvg-logo="https://i.ibb.co/m5qDhr8/atnnews.png" group-title="MyNet"
-,ATN News
+#EXTINF:-1 tvg-id="120" tvg-name="ATN News" tvg-logo="https://i.ibb.co/m5qDhr8/atnnews.png" group-title="MyNet",ATN News
 http://live.flixhub.net/hls/atn-news.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="Bangla Vision" tvg-logo="https://i.ibb.co/sWK1Nry/Bangla-Vision.png" group-title="MyNet"
-,Bangla Vision
+#EXTINF:-1 tvg-id="111" tvg-name="Bangla Vision" tvg-logo="https://i.ibb.co/sWK1Nry/Bangla-Vision.png" group-title="MyNet",Bangla Vision
 http://live.flixhub.net/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="Gazi TV" tvg-logo="https://i.ibb.co/k6ncb3M/GTV.png" group-title="MyNet"
-,Gazi TV
+#EXTINF:-1 tvg-id="120" tvg-name="Gazi TV" tvg-logo="https://i.ibb.co/k6ncb3M/GTV.png" group-title="MyNet",Gazi TV
 http://live.flixhub.net/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="Channel I" tvg-logo="https://i.ibb.co/bPyWZWb/Channel-i.png" group-title="MyNet"
-,Channel I
+#EXTINF:-1 tvg-id="119" tvg-name="Channel I" tvg-logo="https://i.ibb.co/bPyWZWb/Channel-i.png" group-title="MyNet",Channel I
 http://live.flixhub.net/hls/channeli.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="Duranta" tvg-logo="https://i.ibb.co/rQ7GJyg/durantotv.png" group-title="MyNet"
-,Duranta
+#EXTINF:-1 tvg-id="114" tvg-name="Duranta" tvg-logo="https://i.ibb.co/rQ7GJyg/durantotv.png" group-title="MyNet",Duranta
 http://live.flixhub.net/hls/duranta.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="Gaan Bangla" tvg-logo="https://i.ibb.co/S3nfQ04/gaanbanglatv.png" group-title="MyNet"
-,Gaan Bangla
+#EXTINF:-1 tvg-id="115" tvg-name="Gaan Bangla" tvg-logo="https://i.ibb.co/S3nfQ04/gaanbanglatv.png" group-title="MyNet",Gaan Bangla
 http://live.flixhub.net/hls/gb.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="Jamuna" tvg-logo="https://i.ibb.co/CmsMgPj/jamunatv.png" group-title="MyNet"
-,Jamuna
+#EXTINF:-1 tvg-id="116" tvg-name="Jamuna" tvg-logo="https://i.ibb.co/CmsMgPj/jamunatv.png" group-title="MyNet",Jamuna
 http://live.flixhub.net/hls/jamuna.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="Masranga tv" tvg-logo="https://i.ibb.co/pw1t2yZ/maasrangatelevision.png" group-title="MyNet"
-,Masranga tv
+#EXTINF:-1 tvg-id="118" tvg-name="Masranga tv" tvg-logo="https://i.ibb.co/pw1t2yZ/maasrangatelevision.png" group-title="MyNet",Masranga tv
 http://live.flixhub.net/hls/masranga.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="Nagorik TV" tvg-logo="https://i.ibb.co/xg17DqF/Nagorik-TV.png" group-title="MyNet"
-,Nagorik TV
+#EXTINF:-1 tvg-id="113" tvg-name="Nagorik TV" tvg-logo="https://i.ibb.co/xg17DqF/Nagorik-TV.png" group-title="MyNet",Nagorik TV
 http://live.flixhub.net/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nexus" tvg-logo="https://i.ibb.co/ZWbLYMr/nexus.jpg" group-title="MyNet"
-,Nexus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nexus" tvg-logo="https://i.ibb.co/ZWbLYMr/nexus.jpg" group-title="MyNet",Nexus
 http://live.flixhub.net/hls/nexus.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="T-Sports HD" tvg-logo="https://i.ibb.co/ZgC694Z/T-Sports.jpg" group-title="MyNet"
-,T-Sports HD
+#EXTINF:-1 tvg-id="122" tvg-name="T-Sports HD" tvg-logo="https://i.ibb.co/ZgC694Z/T-Sports.jpg" group-title="MyNet",T-Sports HD
 http://live.flixhub.net/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/XV2BCWN/starjalsha.jpg" group-title="MyNet"
-,Star Jalsha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/XV2BCWN/starjalsha.jpg" group-title="MyNet",Star Jalsha
 http://live.flixhub.net/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.ibb.co/GQZXf7p/COLORS-BANGLA-HD.jpg" group-title="MyNet"
-,COLORS BANGLA HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.ibb.co/GQZXf7p/COLORS-BANGLA-HD.jpg" group-title="MyNet",COLORS BANGLA HD
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.ibb.co/6DjMhvR/Colors-Bangla.png" group-title="MyNet"
-,Colors Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.ibb.co/6DjMhvR/Colors-Bangla.png" group-title="MyNet",Colors Bangla
 http://live.flixhub.net/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony AAth" tvg-logo="https://i.ibb.co/wYTx7Kw/sony8.png" group-title="MyNet"
-,Sony AAth
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony AAth" tvg-logo="https://i.ibb.co/wYTx7Kw/sony8.png" group-title="MyNet",Sony AAth
 http://live.flixhub.net/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://i.ibb.co/g6J5fCQ/Sun-Bangla.png" group-title="MyNet"
-,Sun Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://i.ibb.co/g6J5fCQ/Sun-Bangla.png" group-title="MyNet",Sun Bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash" tvg-logo="https://i.ibb.co/b7tt50v/aakash-aath.jpg" group-title="MyNet"
-,Akash
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash" tvg-logo="https://i.ibb.co/b7tt50v/aakash-aath.jpg" group-title="MyNet",Akash
 http://live.flixhub.net/hls/akash.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10" tvg-logo="https://i.ibb.co/TLvTT6t/Enter-10.jpg" group-title="MyNet"
-,Enter 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10" tvg-logo="https://i.ibb.co/TLvTT6t/Enter-10.jpg" group-title="MyNet",Enter 10
 http://live.flixhub.net/hls/enterr10.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.ibb.co/60vRvg6/Colors-Bangla-Cinema.jpg" group-title="MyNet"
-,Colors Bangla Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.ibb.co/60vRvg6/Colors-Bangla-Cinema.jpg" group-title="MyNet",Colors Bangla Cinema
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.ibb.co/Dw0Q7vk/jalshamovies.png" group-title="MyNet"
-,Jalsha Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.ibb.co/Dw0Q7vk/jalshamovies.png" group-title="MyNet",Jalsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khushboo" tvg-logo="https://ibb.co/x6v9dNq" group-title="MyNet"
-,Khushboo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khushboo" tvg-logo="https://ibb.co/x6v9dNq" group-title="MyNet",Khushboo
 http://live.flixhub.net/hls/khushboo.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://i.ibb.co/FHtqKYt/satv.png" group-title="MyNet"
-,Sangeet Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://i.ibb.co/FHtqKYt/satv.png" group-title="MyNet",Sangeet Bangla
 http://live.flixhub.net/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.ibb.co/g4TWpdh/Zee-Bangla-Cinema-Logo.jpg" group-title="MyNet"
-,Zee Bangla Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.ibb.co/g4TWpdh/Zee-Bangla-Cinema-Logo.jpg" group-title="MyNet",Zee Bangla Cinema
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Hd" tvg-logo="https://i.ibb.co/JmPjfkm/Zee-Bangla.png" group-title="MyNet"
-,Zee Bangla Hd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Hd" tvg-logo="https://i.ibb.co/JmPjfkm/Zee-Bangla.png" group-title="MyNet",Zee Bangla Hd
 http://live.flixhub.net/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Picture" tvg-logo="" group-title="MyNet"
-,& Picture
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Picture" tvg-logo="" group-title="MyNet",& Picture
 http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xm" tvg-logo="" group-title="MyNet"
-,9xm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9xm" tvg-logo="" group-title="MyNet",9xm
 http://live.flixhub.net/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljazeera" tvg-logo="" group-title="MyNet"
-,Aljazeera
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aljazeera" tvg-logo="" group-title="MyNet",Aljazeera
 http://live.flixhub.net/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Plant HD" tvg-logo="" group-title="MyNet"
-,Animal Plant HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Plant HD" tvg-logo="" group-title="MyNet",Animal Plant HD
 http://live.flixhub.net/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="MyNet"
-,AXN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="MyNet",AXN
 http://live.flixhub.net/hls/axn.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="" group-title="MyNet"
-,BBC Earth
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="" group-title="MyNet",BBC Earth
 http://live.flixhub.net/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World" tvg-logo="" group-title="MyNet"
-,BBC World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC World" tvg-logo="" group-title="MyNet",BBC World
 http://live.flixhub.net/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BhojPuri" tvg-logo="" group-title="MyNet"
-,BhojPuri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BhojPuri" tvg-logo="" group-title="MyNet",BhojPuri
 http://live.flixhub.net/hls/bhojpuri.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bindass Music" tvg-logo="" group-title="MyNet"
-,Bindass Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bindass Music" tvg-logo="" group-title="MyNet",Bindass Music
 http://live.flixhub.net/hls/bindass.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carton Network" tvg-logo="" group-title="MyNet"
-,Carton Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carton Network" tvg-logo="" group-title="MyNet",Carton Network
 http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="" group-title="MyNet"
-,Colors Cineplex
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex" tvg-logo="" group-title="MyNet",Colors Cineplex
 http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="" group-title="MyNet"
-,Colors HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="" group-title="MyNet",Colors HD
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhinaak" tvg-logo="" group-title="MyNet"
-,Dhinaak
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhinaak" tvg-logo="" group-title="MyNet",Dhinaak
 http://live.flixhub.net/hls/dhin.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="MyNet"
-,Discovery HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="MyNet",Discovery HD
 http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Since" tvg-logo="" group-title="MyNet"
-,Discovery Since
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Since" tvg-logo="" group-title="MyNet",Discovery Since
 http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus" tvg-logo="" group-title="MyNet"
-,Lotus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus" tvg-logo="" group-title="MyNet",Lotus
 http://live.flixhub.net/hls/lotus.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Macca" tvg-logo="" group-title="MyNet"
-,Macca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Macca" tvg-logo="" group-title="MyNet",Macca
 http://live.flixhub.net/hls/qurqntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madani" tvg-logo="" group-title="MyNet"
-,Madani
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madani" tvg-logo="" group-title="MyNet",Madani
 http://live.flixhub.net/hls/madani.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti" tvg-logo="" group-title="MyNet"
-,Masti
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti" tvg-logo="" group-title="MyNet",Masti
 http://live.flixhub.net/hls/masti.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="" group-title="MyNet"
-,MBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="" group-title="MyNet",MBC
 http://live.flixhub.net/hls/mbc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="" group-title="MyNet"
-,MN+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="" group-title="MyNet",MN+
 http://live.flixhub.net/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX HD" tvg-logo="" group-title="MyNet"
-,MNX HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX HD" tvg-logo="" group-title="MyNet",MNX HD
 http://live.flixhub.net/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now HD" tvg-logo="" group-title="MyNet"
-,Movies Now HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now HD" tvg-logo="" group-title="MyNet",Movies Now HD
 http://live.flixhub.net/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NGO HD" tvg-logo="" group-title="MyNet"
-,NGO HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NGO HD" tvg-logo="" group-title="MyNet",NGO HD
 http://live.flixhub.net/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="MyNet"
-,Nick
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="MyNet",Nick
 http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="MyNet"
-,POGO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="MyNet",POGO
 http://live.flixhub.net/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY Kids" tvg-logo="" group-title="MyNet"
-,SONY Kids
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY YEN" tvg-logo="" group-title="MyNet",SONY YEN
+http://live.flixhub.net/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY Kids" tvg-logo="" group-title="MyNet",SONY Kids
 http://live.flixhub.net/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="MyNet"
-,Sony Max HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="MyNet",Sony Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="MyNet"
-,Sony Pix HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="MyNet",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="" group-title="MyNet"
-,Star Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="" group-title="MyNet",Star Gold
 http://live.flixhub.net/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2 HD" tvg-logo="" group-title="MyNet"
-,Star Gold 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2 HD" tvg-logo="" group-title="MyNet",Star Gold 2 HD
 http://live.flixhub.net/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="MyNet"
-,Star Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="MyNet",Star Movies
 http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="MyNet"
-,Star Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="MyNet",Star Plus
 http://live.flixhub.net/hls/starplus.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="MyNet"
-,Travel XP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="MyNet",Travel XP
 http://live.flixhub.net/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="" group-title="MyNet"
-,UTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="" group-title="MyNet",UTV
 http://live.flixhub.net/hls/utv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="MyNet"
-,UTV Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="MyNet",UTV Action
 http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild" tvg-logo="" group-title="MyNet"
-,Wild
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild" tvg-logo="" group-title="MyNet",Wild
 http://live.flixhub.net/hls/wild.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="" group-title="MyNet"
-,Zee Cinema HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="" group-title="MyNet",Zee Cinema HD
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV" tvg-logo="" group-title="MyNet"
-,Zee TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV" tvg-logo="" group-title="MyNet",Zee TV
 http://live.flixhub.net/hls/zeetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom Music" tvg-logo="" group-title="MyNet"
-,Zoom Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom Music" tvg-logo="" group-title="MyNet",Zoom Music
 http://live.flixhub.net/hls/zoom.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="MyNet"
-,Bein Sports 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="MyNet",Bein Sports 1 HD
 http://live.flixhub.net/hls/bein1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="MyNet"
-,Sony Six
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="MyNet",Sony Six
 http://live.flixhub.net/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="MyNet"
-,Sony Ten 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="MyNet",Sony Ten 1
 http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="MyNet"
-,Sony Ten 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="MyNet",Sony Ten 2
 http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="MyNet"
-,Sony Ten 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="MyNet",Sony Ten 3
 http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sport Select1 HD" tvg-logo="" group-title="MyNet"
-,Star Sport Select1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sport Select1 HD" tvg-logo="" group-title="MyNet",Star Sport Select1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1HD" tvg-logo="" group-title="MyNet"
-,Star Sports 1HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1HD" tvg-logo="" group-title="MyNet",Star Sports 1HD
 http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="MyNet"
-,Star Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="MyNet",Star Sports 2
 http://live.flixhub.net/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="MyNet"
-,Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="MyNet",Star Sports Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports3" tvg-logo="" group-title="MyNet"
-,Star Sports3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports3" tvg-logo="" group-title="MyNet",Star Sports3
 http://live.flixhub.net/hls/starsports3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star world HD" tvg-logo="" group-title="MyNet"
-,Star world HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star world HD" tvg-logo="" group-title="MyNet",Star world HD
 http://live.flixhub.net/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCL" tvg-logo="" group-title="MyNet"
-,TCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCL" tvg-logo="" group-title="MyNet",TCL
 http://live.flixhub.net/hls/tlc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="" group-title="MyNet"
-,Ten Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="" group-title="MyNet",Ten Sports
 http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 tvg-id="515" tvg-name="FIFA Toffe180P" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2022-11%2Fd653d588-d515-4df0-aa9c-7b063ef1deb6%2FPhoto_Toffee_set_to_livestream_FIFA_World_Cup_Qatar_2022TM_starting_today_Final.png?rect=0%2C11%2C325%2C171&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage" group-title="Toffee",FIFA Toffe180P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
@@ -249,5 +171,3 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="FIFA Toffe 1080P" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2022-11%2Fd653d588-d515-4df0-aa9c-7b063ef1deb6%2FPhoto_Toffee_set_to_livestream_FIFA_World_Cup_Qatar_2022TM_starting_today_Final.png?rect=0%2C11%2C325%2C171&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage" group-title="Toffee",FIFA Toffe 1080P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-id="(no t" tvg-logo="" group-title="(no group)",tvg-id="(no t
-http://live.flixhub.net/hls/sonyen.m3u8
